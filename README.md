@@ -10,6 +10,10 @@
 
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Gestion+Produits+-+Cloud+Native+App" />
+</p>
+
 # 📦 Gestion Produits - Cloud Native App
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
